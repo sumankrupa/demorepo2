@@ -2,5 +2,3 @@
 
 Some text
 
-
-puta
